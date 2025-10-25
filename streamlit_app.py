@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 # Show title and description.
-st.title("💬 나의 첫번째 챗봇")
+st.title("💬 나의 첫번째 챗봇---")
 st.write(
     st.write(
     "이 애플리케이션은 OpenAI의 GPT-3.5 모델을 사용하여 응답을 생성하는 간단한 챗봇입니다. "
